@@ -1,0 +1,14 @@
+E:\zengfeng\githubs\ihaiu.ResourceVersionPackage\Bin\NLog.config
+E:\zengfeng\githubs\ihaiu.ResourceVersionPackage\Bin\NLog.xsd
+E:\zengfeng\githubs\ihaiu.ResourceVersionPackage\Bin\ResourceVersionPackage.deps.json
+E:\zengfeng\githubs\ihaiu.ResourceVersionPackage\Bin\ResourceVersionPackage.runtimeconfig.json
+E:\zengfeng\githubs\ihaiu.ResourceVersionPackage\Bin\ResourceVersionPackage.runtimeconfig.dev.json
+E:\zengfeng\githubs\ihaiu.ResourceVersionPackage\Bin\ResourceVersionPackage.dll
+E:\zengfeng\githubs\ihaiu.ResourceVersionPackage\Bin\ResourceVersionPackage.pdb
+E:\zengfeng\githubs\ihaiu.ResourceVersionPackage\VersionManager\ResourceVersionPackage\obj\Debug\ResourceVersionPackage.csprojAssemblyReference.cache
+E:\zengfeng\githubs\ihaiu.ResourceVersionPackage\VersionManager\ResourceVersionPackage\obj\Debug\ResourceVersionPackage.csproj.CoreCompileInputs.cache
+E:\zengfeng\githubs\ihaiu.ResourceVersionPackage\VersionManager\ResourceVersionPackage\obj\Debug\ResourceVersionPackage.AssemblyInfoInputs.cache
+E:\zengfeng\githubs\ihaiu.ResourceVersionPackage\VersionManager\ResourceVersionPackage\obj\Debug\ResourceVersionPackage.AssemblyInfo.cs
+E:\zengfeng\githubs\ihaiu.ResourceVersionPackage\VersionManager\ResourceVersionPackage\obj\Debug\ResourceVersionPackage.csproj.CopyComplete
+E:\zengfeng\githubs\ihaiu.ResourceVersionPackage\VersionManager\ResourceVersionPackage\obj\Debug\ResourceVersionPackage.dll
+E:\zengfeng\githubs\ihaiu.ResourceVersionPackage\VersionManager\ResourceVersionPackage\obj\Debug\ResourceVersionPackage.pdb
